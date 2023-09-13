@@ -1,4 +1,3 @@
-<img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="480" height="360"></img>
 <h1 align="center">Hi 👋, I'm Prasad Deshpande</h1>
 <h2 align="center">A passionate full-stack developer!</h2>
 
