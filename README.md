@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **AWS Services**
 
-- 👨‍💻 All of my projects are available at [toBeUpdated](toBeUpdated)
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12O7nHPhJ6HtSKuTcgWxk3sUMvbV9ailD/view?usp=drive_link">Resume</a>
-
-- 💬 Ask me about **Full Stack Development**
+- 👨‍💻 All of my projects are available at [Portfolio](https://deshpandeprasad.netlify.app/)
 
 - 📫 How to reach me **deshpande.prasa@northeastern.edu**
 
