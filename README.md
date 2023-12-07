@@ -2,7 +2,7 @@
 <h2 align="center">A passionate full-stack developer!</h2>
 <img align="right" height="320" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475tmed8882fxww4rmtwwdk7bs3wy300cm7478347a&ep=v1_gifs_related&rid=giphy.gif&ct=g"></img>
 
-- 🔭 I’m currently working on **A Cryptocurrency Dashboard**
+- 🔭 I’m currently working on **A Backend Project involving Redis**
 
 - 🌱 I’m currently learning **AWS Services**
 
