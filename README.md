@@ -13,7 +13,7 @@
 - 🌱 Exploring and learning **DevOps, AWS Services**  
   
 
-- 🌐 Portfolio: **[https://dev-pd.netlify.app/](https://dev-pd.netlify.app/)**  
+- 🌐 Portfolio: **https://www.devpd.com/**  
   
 
 - ✉️ Reach out to me: **deshpande.prasa@northeastern.edu**  
