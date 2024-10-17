@@ -13,9 +13,6 @@
 - 🌱 Exploring and learning **DevOps, AWS Services**  
   
 
-- 🌐 Portfolio: **https://www.devpd.com/**  
-  
-
 - ✉️ Reach out to me: **deshpande.prasa@northeastern.edu**  
   
 
