@@ -1,8 +1,5 @@
 ## <div align="center">Hi, I'm Prasad, a passionate Full-Stack developer</div>  
-  
-
-- 🎓 I'm a **Software Engineering** graduate student at **Northeastern University, Boston**  
-  
+    
 
 - ❓ Interested in **Full-Stack / Backend / Frontend Development**  
   
